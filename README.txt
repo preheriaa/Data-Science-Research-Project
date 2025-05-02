@@ -15,7 +15,7 @@ This repository contains code and analysis for evaluating communication performa
   - RF ➝ FSO: Use RF prediction as a feature for FSO model.
   - FSO ➝ RF: Use FSO prediction as a feature for RF model.
 
-### 4. Evaluation and Visualization
+4. Evaluation and Visualization
 - RMSE & R² per weather condition and average
 - Worst-case RMSE
 - Pearson Correlation
